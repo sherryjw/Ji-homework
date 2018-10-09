@@ -23,7 +23,7 @@
 
   ![](images/43.jpg)
 
-  ### **·&ensp;细节篇**
+### **·&ensp;细节篇**
 
   &emsp;&emsp;半透明笔握与铝合金的搭配，使 Al-star 极具现代感；而 Safari 手握部分则延续了笔身的配色，更显青春活力。
 
@@ -36,7 +36,7 @@
   
   &emsp;&emsp;至于笔尾的颜色， Safari 是随着笔的颜色改变的。而 Al-star 不会改变，都是黑色。
 
-  ## 2、手感
+## 2、手感
 
   &emsp;&emsp;前文提到，由于材质的不同，Al-star 和 Safari 书写手感明显不同。众多LAMY粉亲测表示，Al-star 带给了他们更多书写的厚实感， 而 Safari 轻巧飘逸，甚至飘得有点过了，对于追求书写体验的笔友来说，Al-star 也许是更好的选择。
 
@@ -44,9 +44,9 @@
 
   &emsp;&emsp;在笔尖的处理上，除了部分限量款对笔尖颜色进行调整外，LAMY 对 Al-star 和 Safari 则持相同态度。书写流畅，阻尼感不明显，易出笔锋且不易飞白等，都是值得 LAMY 用户认可这两款产品的特性。
 
-  ## 3、优缺点
+## 3、优缺点
 
-  ### *·&ensp;Safari*
+### *·&ensp;Safari*
 
   &emsp;&emsp;![](images/52.jpg)
 
@@ -64,7 +64,7 @@
 
   &emsp;&emsp;· 受人工打磨影响，笔尖表现有细小差异。
 
-  ### *·&ensp;Al-star*
+### *·&ensp;Al-star*
 
   &emsp;&emsp;![](images/54.jpg)
 
@@ -86,8 +86,6 @@
 
   &emsp;&emsp;· 受汇率影响，价格偏高。
 
-  </br>
+</br>
 
-  ##### &emsp;&emsp; 作者：Sherry ; </br>&emsp;&emsp; 图源自微博@LAMY凌美中国、百度贴吧等，如有侵权，请联系删除。
-
-  
+##### &emsp;&emsp; 作者：Sherry ;   </br>&emsp;&emsp; 图源自微博@LAMY凌美中国、百度贴吧等，如有侵权，请联系删除。
